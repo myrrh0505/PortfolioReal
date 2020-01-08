@@ -258,6 +258,10 @@ header nav li:last-child{
 	flex-basis: 60%;
 }
 
+#bio{
+	text-align: center;
+}
+
 
 @media (max-width: 1000px){
 
@@ -267,6 +271,7 @@ header nav li:last-child{
 	}
 
 }
+
 
 
 
